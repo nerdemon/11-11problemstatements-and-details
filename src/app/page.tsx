@@ -158,7 +158,7 @@ export default function Home() {
         <div className="container">
           <div className="text-center mb-8">
             <h2 style={{ fontSize: '2.5rem' }}>{`// REWARD_ALLOCATION`}</h2>
-            <p style={{ color: 'var(--text-muted)' }}>TOTAL ASSET POOL: ₹60,000</p>
+            <p style={{ color: 'var(--text-muted)' }}>TOTAL ASSET POOL: 30000</p>
           </div>
           
           <h3 style={{ textAlign: 'center', marginBottom: '2rem', color: 'var(--white)' }}>&gt; MAIN TRACK AWARDS</h3>
@@ -180,7 +180,7 @@ export default function Home() {
              </div>
           </div>
           
-          <h3 style={{ textAlign: 'center', marginBottom: '2rem', color: 'var(--white)' }}>&gt; CONTENT TRACK AWARDS (₹30,000)</h3>
+          <h3 style={{ textAlign: 'center', marginBottom: '2rem', color: 'var(--white)' }}>&gt; CONTENT TRACK AWARDS</h3>
           <div className="grid grid-cols-2">
             <div className="card" style={{ padding: '1.5rem' }}>
               <div style={{ color: 'var(--neon-green)' }}>Best Problem-Solution Video</div>
